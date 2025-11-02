@@ -1,4 +1,4 @@
-# 💼 Finance Analytics Dashboard (Codebasics Section 9)
+# 💼 Finance Analytics Dashboard
 
 This project is part of the **Codebasics Data Analyst Bootcamp**, focusing on **Finance Analytics** using Excel, Power Query, and Power Pivot.
 
