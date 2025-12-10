@@ -190,14 +190,8 @@ APAC shows strongest revenue growth — ideal for new product launches.
 
 # 📂 How to Use This Project
 
-Open Finance_Analysis_All reports.xlsx
-
-## Explore:
-
-Yearly P&L
-
-Market-level profitability
-
-GM% trend charts
-
-Review insights for strategic financial decision-making
+## Explore pdfs:
+P&L Yearly Report
+P&L Quarterly Report
+P&L for markets
+GM% by quarters (subzone)
